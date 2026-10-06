@@ -1,0 +1,11 @@
+{
+  "name": "dataflows-sms",
+  "version": "1.0.0",
+  "description": "Send, schedule and track business SMS from your DataFlows account: single texts, contact group campaigns, cost previews, delivery status, replies and usage.",
+  "mcpServers": {
+    "dataflows-sms": {
+      "httpUrl": "https://sms.dataflows.com.au/mcp/gemini"
+    }
+  },
+  "contextFileName": "GEMINI.md"
+}
